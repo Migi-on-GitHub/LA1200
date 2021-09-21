@@ -1,2 +1,2 @@
 # LA1200
-Dieses Programm generiert eine zufällige Zahl zwischen 1 und 100. Der User kann Zahlen eingeben und muss die geheime Zahl erraten. Wenn er die Zahl erraten hat, wird angezeigt, wie viele Versuche er benötigt hat. Fehleingaben vom User werden umgangen.
+This program generates a random number between 1 and 100. The user can enter numbers and must guess the secret number. When he has guessed the number, it is displayed how many tries he needed. Incorrect input from the user is bypassed.
